@@ -47,7 +47,7 @@ public:
 	virtual void Init() override;
 	FABCharacterData* GetABCharacterData(int32 Level);
 
-	FStreamableManager StreamalbeManager;
+	FStreamableManager StreamableManager;
 
 private:
 	UPROPERTY()
